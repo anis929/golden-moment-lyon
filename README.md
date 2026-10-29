@@ -5,8 +5,8 @@
 Présentation interactive de Golden Moment, création de contenu mariage et événementiel à Lyon et alentours.
 
 - Ouverture animée avec le logo et transition au défilement.
-- Portfolio enrichi de douze nouvelles photographies distinctes : mariages, portraits et traditions.
-- Séquence immersive au défilement : photos qui s’écartent, ouverture du cadre et apparition du texte.
+- Portfolio photographique enrichi : mariages, portraits, traditions et cinq photos de séance en couple.
+- Carnet interactif : trois regards sur une même séance, avec transitions courtes et accès à sa collection. Le carnet suit le défilement normal de la page.
 - Révélations progressives des sections, filtres et lecteur photo avec navigation au clavier.
 - Reels Instagram chargés à la demande.
 - Formules First Look (3 h), Inoubliable (6 h), Infinity (10 h), shootings et options.
